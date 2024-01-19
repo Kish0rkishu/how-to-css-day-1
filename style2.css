@@ -1,0 +1,42 @@
+.box{
+    width: 800px;
+    margin: 100px auto;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+}
+.box-headder{
+    position: relative;
+}
+.img{
+    width: 100%;
+    border-radius: 14px;  
+}
+.promted{
+    width: 100%;
+    padding: auto;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 200px;
+    left: 220px;
+    border-radius: 2px;
+    
+}
+.promted-p{
+    width: 100%;
+    padding: auto;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 180px;
+    left: 90px;
+}
+.butt{
+    position: absolute;
+    bottom: 90px;
+    right: 300px;
+    width:150px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
